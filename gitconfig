@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = seanjamesdominique@gmail.com
+	name = Sean Dominique
